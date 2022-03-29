@@ -27,6 +27,7 @@
       - Typescript 
     - 추후 계획
       - TIL 의 README.md 파일도 생성하도록 할 예정
+      - UI를 통해 README.md 생성에 필요한 데이터를 입력 받을 수 있도록 할 예정
       - 직접 JSON 파일로 관리 중인 Model을 AWS Dynamodb와 lambda로 연동해서 구축해 볼 예정
     - 🗄️ [Github](https://github.com/PhilosopherProgrammer/readme-generator)
 - ## Clone Coding
