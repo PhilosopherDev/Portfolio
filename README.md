@@ -7,6 +7,7 @@
     - [Readme Generator](#readme-generator) 
   - [Clone Coding](#clone-coding)
     - [줄에 매달려 흔들리는 상자](#줄에-매달려-흔들리는-상자) 
+    - [HotelBT](#hotelbt)
 
 
 - ## Challenge
@@ -14,7 +15,7 @@
     - 목적
       - 레이아웃 기초 잡기
     - 기술 
-      - Javascript, CSS, HTML
+      - HTML, CSS
     - 🌐 [Live Site](https://philosopherprogrammer.github.io/NFT-preview-card-component/)
     - 🗄️ [Github](https://github.com/PhilosopherProgrammer/NFT-preview-card-component)
     - 🔮 [Solution](https://www.frontendmentor.io/solutions/nft-preview-card-component-9Vy2c_qQd)
@@ -36,3 +37,10 @@
       - Javascript
     - 🌐 [Live Site](https://philosopherprogrammer.github.io/swaying-box-hanging-from-a-string/)
     - 🗄️ [Github](https://github.com/PhilosopherProgrammer/swaying-box-hanging-from-a-string)
+  - ### [HotelBT](https://www.udemy.com/course/modern-html-css-from-the-beginning/)
+    - 목적 
+      - 레이아웃 기초 잡기
+    - 기술
+      - HTML, CSS
+    - 🌐 [Live Site](https://philosopherprogrammer.github.io/hotel-BT/)
+    - 🗄️ [Github](https://github.com/PhilosopherProgrammer/hotel-BT)
