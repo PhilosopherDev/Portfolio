@@ -8,6 +8,7 @@
   - [Clone Coding](#clone-coding)
     - [줄에 매달려 흔들리는 상자](#줄에-매달려-흔들리는-상자) 
     - [HotelBT](#hotelbt)
+    - [Asynchronous JavaScript Deep Dive](#asynchronous-javaScript-deep-dive)
 
 
 - ## Challenge
@@ -45,3 +46,9 @@
       - HTML, CSS
     - 🌐 [Live Site](https://philosopherprogrammer.github.io/hotel-BT/)
     - 🗄️ [Github](https://github.com/PhilosopherProgrammer/hotel-BT)
+  - ### [Asynchronous JavaScript Deep Dive](https://www.udemy.com/course/asynchronous-javascript-deep-dive/)
+    - 목적
+      - Javscript 비동기 코드에 대한 제대로 된 이해
+    - 기술
+      - Javascript
+    - 🗄️ [Github](https://github.com/PhilosopherProgrammer/Asynchronous-JavaScript-Deep-Dive)
