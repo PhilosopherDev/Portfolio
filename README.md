@@ -8,7 +8,9 @@
   - [Clone Coding](#clone-coding)
     - [줄에 매달려 흔들리는 상자](#줄에-매달려-흔들리는-상자) 
     - [HotelBT](#hotelbt)
-    - [Asynchronous JavaScript Deep Dive](#asynchronous-javaScript-deep-dive)
+    - [Asynchronous JavaScript Deep Dive](#asynchronous-javascript-deep-dive)
+    - [React Hooks Explained](#react-hooks-explained)
+    - [todo app react](#todo-app-react)
 
 
 - ## Challenge
@@ -52,3 +54,16 @@
     - 기술
       - Javascript
     - 🗄️ [Github](https://github.com/PhilosopherProgrammer/Asynchronous-JavaScript-Deep-Dive)
+  - ### [React Hooks Explained](https://github.com/PhilosopherProgrammer/React-Hooks-Explained)
+    - 목적
+      - React hook 의 종류와 방식 다뤄보기
+        - useState, useEffect, useMemo, useCallback, useRef, Custom hook etc.
+    - 기술
+      - React
+    - [Github](https://github.com/PhilosopherProgrammer/React-Hooks-Explained)
+  - ### [todo app react](https://github.com/PhilosopherProgrammer/todo-app-react)
+    - 목적
+      - functional component 기반 일정 관리 웹 앱 작성해보기.
+    - 기술
+      - React
+    - [Github](https://github.com/PhilosopherProgrammer/todo-app-react)
