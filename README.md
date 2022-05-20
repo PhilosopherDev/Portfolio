@@ -70,7 +70,7 @@
     - [Github](https://github.com/PhilosopherProgrammer/todo-app-react)
   - ### [CSS3 Master](https://github.com/PhilosopherProgrammer/CSS3-Master)
     - 목적
-      - 실무에 필요한 간단한 CSS 예제 을 위해
+      - 실무에 필요한 간단한 CSS 예제 실습을 위해
     - 기술
       - CSS3
     - [Github](https://github.com/PhilosopherProgrammer/CSS3-Master)
