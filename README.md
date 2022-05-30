@@ -10,7 +10,7 @@
     - [HotelBT](#hotelbt)
     - [Asynchronous JavaScript Deep Dive](#asynchronous-javascript-deep-dive)
     - [React Hooks Explained](#react-hooks-explained)
-    - [todo app react](#todo-app-react)
+    - [Todo app react](#todo-app-react)
     - [CSS3-Master](#css3-master)
 
 
@@ -62,7 +62,7 @@
     - 기술
       - React
     - 🗄️ [Github](https://github.com/PhilosopherProgrammer/React-Hooks-Explained)
-  - ### [todo app react](https://github.com/PhilosopherProgrammer/todo-app-react)
+  - ### [Todo app react](https://github.com/PhilosopherProgrammer/todo-app-react)
     - 목적
       - functional component 기반 일정 관리 웹 앱 작성해보기.
     - 기술
