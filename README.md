@@ -4,7 +4,7 @@
   - [Challenge](#challenge)
     - [Newbie](#newbie)
       - [NFT preview card component](#nft-preview-card-component)
-      - [QR-code-component](#qr-code-component)
+      - [QR code component](#qr-code-component)
   - [Side Project](#side-project)
     - [Readme Generator](#readme-generator) 
   - [Clone Coding](#clone-coding)
@@ -26,7 +26,7 @@
       - 🌐 [Live Site](https://philosopherprogrammer.github.io/NFT-preview-card-component/)
       - 🗄️ [Github](https://github.com/PhilosopherProgrammer/NFT-preview-card-component)
       - 🔮 [Solution](https://www.frontendmentor.io/solutions/nft-preview-card-component-9Vy2c_qQd)
-    - ### [QR-code-component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
+    - ### [QR code component](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
       - 목적
       - 기술
         - HTML, CSS
