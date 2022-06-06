@@ -2,7 +2,8 @@
 
 - # Overview
   - [Challenge](#challenge)
-    - [NFT preview card component](#nft-preview-card-component)
+    - [Newbie](#newbie)
+      - [NFT preview card component](#nft-preview-card-component)
   - [Side Project](#side-project)
     - [Readme Generator](#readme-generator) 
   - [Clone Coding](#clone-coding)
@@ -15,14 +16,15 @@
 
 
 - ## Challenge
-  - ### [NFT preview card component](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
-    - 목적
-      - 레이아웃 기초 잡기
-    - 기술 
-      - HTML, CSS
-    - 🌐 [Live Site](https://philosopherprogrammer.github.io/NFT-preview-card-component/)
-    - 🗄️ [Github](https://github.com/PhilosopherProgrammer/NFT-preview-card-component)
-    - 🔮 [Solution](https://www.frontendmentor.io/solutions/nft-preview-card-component-9Vy2c_qQd)
+  - ## Newbie
+    - ### [NFT preview card component](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U)
+      - 목적
+        - 레이아웃 기초 잡기
+      - 기술 
+        - HTML, CSS
+      - 🌐 [Live Site](https://philosopherprogrammer.github.io/NFT-preview-card-component/)
+      - 🗄️ [Github](https://github.com/PhilosopherProgrammer/NFT-preview-card-component)
+      - 🔮 [Solution](https://www.frontendmentor.io/solutions/nft-preview-card-component-9Vy2c_qQd)
 - ## Side Project
   - ## Readme Generator
     - 목적
