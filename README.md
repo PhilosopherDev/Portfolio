@@ -62,6 +62,7 @@
         - CSS 설게 원리 이해
       - 기술
         - CSS3
+      - 🗄️ [Github](https://github.com/PhilosopherProgrammer/CSS-Design-Practical-Guide)
       - **[⬆ Back to Top](#overview)**
 
   - ## Lecture
