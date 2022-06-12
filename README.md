@@ -8,14 +8,15 @@
   - [Side Project](#side-project)
     - [Readme Generator](#readme-generator) 
   - [Clone Coding](#clone-coding)
-    - [줄에 매달려 흔들리는 상자](#줄에-매달려-흔들리는-상자) 
-    - [HotelBT](#hotelbt)
-    - [Asynchronous JavaScript Deep Dive](#asynchronous-javascript-deep-dive)
-    - [React Hooks Explained](#react-hooks-explained)
-    - [Todo App React](#todo-app-react)
-    - [CSS3-Master](#css3-master)
-  - [Reading](#reading)
-    - [CSS 설계 실전 가이드](#css-설계-실전-가이드)
+    - [Book](#book)
+      - [React Hooks Explained](#react-hooks-explained)
+      - [CSS3-Master](#css3-master)
+      - [CSS 설계 실전 가이드](#css-설계-실전-가이드)
+    - [Lecture](#lecture)
+      - [줄에 매달려 흔들리는 상자](#줄에-매달려-흔들리는-상자) 
+      - [HotelBT](#hotelbt)
+      - [Asynchronous JavaScript Deep Dive](#asynchronous-javascript-deep-dive)
+      - [Todo App React](#todo-app-react)
 
 - ## Challenge
   - ## Newbie
@@ -44,43 +45,50 @@
       - 직접 JSON 파일로 관리 중인 Model을 AWS Dynamodb와 lambda로 연동해서 구축해 볼 예정
     - 🗄️ [Github](https://github.com/PhilosopherProgrammer/readme-generator)
 - ## Clone Coding
-  - ### [줄에 매달려 흔들리는 상자](https://www.youtube.com/watch?v=XNxkVVK6m80&list=PLGf_tBShGSDNGHhFBT4pKFRMpiBrZJXCm&index=3)
-    - 목적
-      - Javascript Canvas 애니메이션의 작동 방식 이해를 위해
-    - 기술
-      - Javascript
-    - 🌐 [Live Site](https://philosopherprogrammer.github.io/swaying-box-hanging-from-a-string/)
-    - 🗄️ [Github](https://github.com/PhilosopherProgrammer/swaying-box-hanging-from-a-string)
-  - ### [HotelBT](https://www.udemy.com/course/modern-html-css-from-the-beginning/)
-    - 목적 
-      - 레이아웃 기초 잡기
-    - 기술
-      - HTML, CSS
-    - 🌐 [Live Site](https://philosopherprogrammer.github.io/hotel-BT/)
-    - 🗄️ [Github](https://github.com/PhilosopherProgrammer/hotel-BT)
-  - ### [Asynchronous JavaScript Deep Dive](https://www.udemy.com/course/asynchronous-javascript-deep-dive/)
-    - 목적
-      - Javscript 비동기 코드에 대한 제대로 된 이해
-    - 기술
-      - Javascript
-    - 🗄️ [Github](https://github.com/PhilosopherProgrammer/Asynchronous-JavaScript-Deep-Dive)
-  - ### [React Hooks Explained](https://github.com/PhilosopherProgrammer/React-Hooks-Explained)
-    - 목적
-      - React hook 의 종류와 방식 다뤄보기
-        - useState, useEffect, useMemo, useCallback, useRef, Custom hook etc.
-    - 기술
-      - React
-    - 🗄️ [Github](https://github.com/PhilosopherProgrammer/React-Hooks-Explained)
-  - ### [Todo App React](https://github.com/PhilosopherProgrammer/todo-app-react)
-    - 목적
-      - functional component 기반 일정 관리 웹 앱 작성해보기.
-    - 기술
-      - React
-    - 🗄️ [Github](https://github.com/PhilosopherProgrammer/todo-app-react)
-  - ### [CSS3 Master](https://github.com/PhilosopherProgrammer/CSS3-Master)
-    - 목적
-      - 실무에 필요한 간단한 CSS 예제 실습을 위해
-      - transition, transform
-    - 기술
-      - CSS3
-    - 🗄️ [Github](https://github.com/PhilosopherProgrammer/CSS3-Master)
+  - ## Book
+    - ### [React Hooks Explained](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791160508796&orderClick=LEa&Kc=)
+      - 목적
+        - React hook 의 종류와 방식 다뤄보기
+          - useState, useEffect, useMemo, useCallback, useRef, Custom hook etc.
+      - 기술
+        - React
+      - 🗄️ [Github](https://github.com/PhilosopherProgrammer/React-Hooks-Explained)
+    - ### [CSS3 Master](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966260867&orderClick=LAW&Kc=)
+      - 목적
+        - 실무에 필요한 간단한 CSS 예제 실습을 위해
+        - transition, transform
+      - 기술
+        - CSS3
+      - 🗄️ [Github](https://github.com/PhilosopherProgrammer/CSS3-Master)
+    - ### [CSS 설계 실전가이드](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791190665810&orderClick=LAG&Kc=)
+      - 목적
+        - CSS 설게 원리 이해
+      - 기술
+        - CSS3
+  - ## Lecture
+    - ### [줄에 매달려 흔들리는 상자](https://www.youtube.com/watch?v=XNxkVVK6m80&list=PLGf_tBShGSDNGHhFBT4pKFRMpiBrZJXCm&index=3)
+      - 목적
+        - Javascript Canvas 애니메이션의 작동 방식 이해를 위해
+      - 기술
+        - Javascript
+      - 🌐 [Live Site](https://philosopherprogrammer.github.io/swaying-box-hanging-from-a-string/)
+      - 🗄️ [Github](https://github.com/PhilosopherProgrammer/swaying-box-hanging-from-a-string)
+    - ### [HotelBT](https://www.udemy.com/course/modern-html-css-from-the-beginning/)
+      - 목적 
+        - 레이아웃 기초 잡기
+      - 기술
+        - HTML, CSS
+      - 🌐 [Live Site](https://philosopherprogrammer.github.io/hotel-BT/)
+      - 🗄️ [Github](https://github.com/PhilosopherProgrammer/hotel-BT)
+    - ### [Asynchronous JavaScript Deep Dive](https://www.udemy.com/course/asynchronous-javascript-deep-dive/)
+      - 목적
+        - Javscript 비동기 코드에 대한 제대로 된 이해
+      - 기술
+        - Javascript
+      - 🗄️ [Github](https://github.com/PhilosopherProgrammer/Asynchronous-JavaScript-Deep-Dive)
+    - ### [Todo App React](https://github.com/PhilosopherProgrammer/todo-app-react)
+      - 목적
+        - functional component 기반 일정 관리 웹 앱 작성해보기.
+      - 기술
+        - React
+      - 🗄️ [Github](https://github.com/PhilosopherProgrammer/todo-app-react)
