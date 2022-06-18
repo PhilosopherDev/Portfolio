@@ -57,7 +57,7 @@
       -   **[⬆ Back to Top](#overview)**
 
 
-    - ### [CSS 설계 실전가이드](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791190665810&orderClick=LAG&Kc=)
+    - ### [CSS 설계 실전 가이드](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791190665810&orderClick=LAG&Kc=)
       - 목적
         - CSS 설게 원리 이해
       - 기술
